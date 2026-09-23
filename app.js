@@ -1,0 +1,1 @@
+console.log("Ini footer dari Siswa B.");
